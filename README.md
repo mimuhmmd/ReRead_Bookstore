@@ -1,10 +1,10 @@
 # ReRead Bookstore
 
-ReRead Bookstore is a PHP and MySQL web application for buying and managing second-hand books. It includes customer registration/login, book browsing, product details, cart pages, checkout flow, order tracking, and a simple admin area for managing products, users, and orders.
+ReRead Bookstore is a PHP and MySQL web application for buying and managing second-hand books. This project was developed as my final assignment for the Web Application Development module. It includes customer registration/login, book browsing, product details, cart pages, checkout flow, order tracking, and a simple admin area for managing products, users, and orders.
 
 ## My Contribution
 
-This was a group project. My main responsibility was overseeing and building the frontend parts of the website, especially the HTML structure, CSS styling, page layout, and user-facing interface.
+This was completed as a group project. My main responsibility was overseeing and implementing the frontend parts of the website, especially the HTML structure, CSS styling, page layout, and user-facing interface pages.
 
 ## Features
 
@@ -38,3 +38,4 @@ This was a group project. My main responsibility was overseeing and building the
 Email: `admin@reread.com`
 
 Password: `Admin@123`
+
